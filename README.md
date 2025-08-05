@@ -14,6 +14,7 @@ Ogni modulo è accompagnato da:
 
  
 Corso di Architettura dei Sistemi Digitali 
+
 Professore: Nicola Mazzocca  
 Professoressa: Alessandra De Benedictis  
 Università Federico II – A.A. 2024-2025
